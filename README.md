@@ -1,2 +1,2 @@
-# bubleSortingAlgoritme
-Sorting arrays with using buble algorithme
+# bubleSortingAlgoritm
+Sorting arrays with using buble algorithm
